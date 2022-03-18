@@ -1,0 +1,1312 @@
+{
+	"Texture1D": {
+		"fd94f316-8e9c-3046-a43b-926e05eac0c4": {
+			"filename": "luts/toon-1D.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "fd94f316-8e9c-3046-a43b-926e05eac0c4"
+		}
+	},
+	"Texture2D": {
+		"008c0d8e-3fbd-4e4e-baab-a467e463fd5d": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "008c0d8e-3fbd-4e4e-baab-a467e463fd5d"
+		},
+		"e553b860-ac19-1d49-a6fb-6c22cdb45182": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-specular.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e553b860-ac19-1d49-a6fb-6c22cdb45182"
+		},
+		"f51622a6-2535-f64e-bddb-698506e446c3": {
+			"anisotropic": 16.0,
+			"filename": "textures/monkey-uvMap.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f51622a6-2535-f64e-bddb-698506e446c3"
+		},
+		"aaf0523c-e444-bb4d-92b1-aa2e65db7204": {
+			"anisotropic": 16.0,
+			"filename": "textures/leaves.png",
+			"filter_mag": "Nearest",
+			"filter_min": "Nearest",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "aaf0523c-e444-bb4d-92b1-aa2e65db7204"
+		},
+		"e2824a89-d7c1-5c47-8d55-e113a08e1e1e": {
+			"anisotropic": 16.0,
+			"filename": "textures/LStartPlatformTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e2824a89-d7c1-5c47-8d55-e113a08e1e1e"
+		},
+		"edbcdb90-c4f9-844a-b4f1-d2ec5d59536b": {
+			"anisotropic": 16.0,
+			"filename": "textures/DanceFloorTex2.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "edbcdb90-c4f9-844a-b4f1-d2ec5d59536b"
+		},
+		"6dd5beda-bc29-3a49-be8a-7ea8f08d90e7": {
+			"anisotropic": 16.0,
+			"filename": "textures/VinylTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "6dd5beda-bc29-3a49-be8a-7ea8f08d90e7"
+		},
+		"e99a3de4-7543-0f41-ab2c-f1bddeedee6b": {
+			"anisotropic": 16.0,
+			"filename": "textures/CDTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e99a3de4-7543-0f41-ab2c-f1bddeedee6b"
+		},
+		"536bc9d8-6ce9-7c4a-a5a7-1f4c037aa3db": {
+			"anisotropic": 16.0,
+			"filename": "textures/Gem.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "536bc9d8-6ce9-7c4a-a5a7-1f4c037aa3db"
+		},
+		"632d049e-747c-8243-9c9e-271d12a67a4a": {
+			"anisotropic": 16.0,
+			"filename": "textures/GemOff.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "632d049e-747c-8243-9c9e-271d12a67a4a"
+		},
+		"f2bdf705-2baf-914e-94a4-e0782238b29e": {
+			"anisotropic": 16.0,
+			"filename": "textures/shirt.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f2bdf705-2baf-914e-94a4-e0782238b29e"
+		},
+		"5fb862c6-0eba-2a48-878b-f2060a29e65d": {
+			"anisotropic": 16.0,
+			"filename": "textures/Game_Over_Screen.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "5fb862c6-0eba-2a48-878b-f2060a29e65d"
+		},
+		"666de067-aca2-a549-87af-7991bc5544c3": {
+			"anisotropic": 16.0,
+			"filename": "textures/SmallWallJumpTexBlue.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "666de067-aca2-a549-87af-7991bc5544c3"
+		},
+		"391ee092-df0e-9545-bfdb-6503a73ea917": {
+			"anisotropic": 16.0,
+			"filename": "textures/SmallWallJumpTexRed.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "391ee092-df0e-9545-bfdb-6503a73ea917"
+		},
+		"c6130aac-476b-e840-a945-7851fb8ded17": {
+			"anisotropic": 16.0,
+			"filename": "textures/WallJumpTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "c6130aac-476b-e840-a945-7851fb8ded17"
+		},
+		"4848ce6a-1ac2-8442-9744-c749000b587d": {
+			"anisotropic": 16.0,
+			"filename": "textures/FutureCarTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "4848ce6a-1ac2-8442-9744-c749000b587d"
+		},
+		"25e48e02-53b3-6148-a199-9bf3aac17d60": {
+			"anisotropic": 16.0,
+			"filename": "textures/SemiTruckTexV2.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "25e48e02-53b3-6148-a199-9bf3aac17d60"
+		},
+		"191e0f19-9544-dd4c-a04c-f79969de59f4": {
+			"anisotropic": 16.0,
+			"filename": "textures/PickupTruckTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "191e0f19-9544-dd4c-a04c-f79969de59f4"
+		},
+		"9fbd9750-111d-1947-9ff3-096aacd862bc": {
+			"anisotropic": 16.0,
+			"filename": "textures/KBuildingTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9fbd9750-111d-1947-9ff3-096aacd862bc"
+		},
+		"6d9436f8-8379-8340-b17b-55af5be927c0": {
+			"anisotropic": 16.0,
+			"filename": "textures/KBuilding2Tex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "6d9436f8-8379-8340-b17b-55af5be927c0"
+		},
+		"26c3b509-8c2b-894b-a65c-14bbda3bf596": {
+			"anisotropic": 16.0,
+			"filename": "textures/KBuilding3Tex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "26c3b509-8c2b-894b-a65c-14bbda3bf596"
+		},
+		"e4bbbe55-c7df-9948-b7f5-42107a085945": {
+			"anisotropic": 16.0,
+			"filename": "textures/RBuildingTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e4bbbe55-c7df-9948-b7f5-42107a085945"
+		},
+		"5d3e89ab-5a30-6f4d-9096-25ba9bfbec10": {
+			"anisotropic": 16.0,
+			"filename": "textures/OvalBuildingTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "5d3e89ab-5a30-6f4d-9096-25ba9bfbec10"
+		},
+		"5426b9ed-2f26-c14d-b852-f03fa040b5c0": {
+			"anisotropic": 16.0,
+			"filename": "textures/DiscoBallTexV2.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "5426b9ed-2f26-c14d-b852-f03fa040b5c0"
+		},
+		"cce3c2d5-8bdd-aa40-a7aa-7e74046a4926": {
+			"anisotropic": 16.0,
+			"filename": "textures/pianotex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "cce3c2d5-8bdd-aa40-a7aa-7e74046a4926"
+		},
+		"ab297118-dae3-a542-aa2a-4096abff7545": {
+			"anisotropic": 16.0,
+			"filename": "textures/halfCircleTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ab297118-dae3-a542-aa2a-4096abff7545"
+		},
+		"a0c3e7bb-3add-554f-a0d2-5bfdcb9ceab3": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BeatLogo.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "a0c3e7bb-3add-554f-a0d2-5bfdcb9ceab3"
+		},
+		"eb9a1375-1cae-c54e-bc53-2468291e4ccb": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BPlay.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "eb9a1375-1cae-c54e-bc53-2468291e4ccb"
+		},
+		"f08db4ec-7926-e741-9ac6-79bb2e2c4208": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BOptions.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f08db4ec-7926-e741-9ac6-79bb2e2c4208"
+		},
+		"9afc1a06-6c8c-0f42-8cf7-b5252a4eaf09": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BMusic.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9afc1a06-6c8c-0f42-8cf7-b5252a4eaf09"
+		},
+		"6020359a-8858-344e-b9bb-4f9ee1c27e8e": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BCredits.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "6020359a-8858-344e-b9bb-4f9ee1c27e8e"
+		},
+		"b646b640-6c3e-e042-91f9-dc84958b21dc": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BQuit.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "b646b640-6c3e-e042-91f9-dc84958b21dc"
+		},
+		"ed0a4864-bf7a-054a-bdd0-e5376b628b15": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BResume.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ed0a4864-bf7a-054a-bdd0-e5376b628b15"
+		},
+		"b34e2277-24ce-8a48-a3c9-13e4ab216327": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BResync.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "b34e2277-24ce-8a48-a3c9-13e4ab216327"
+		},
+		"f0935ebc-b63e-2d4e-87ce-4845f032a0c2": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BContinue.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f0935ebc-b63e-2d4e-87ce-4845f032a0c2"
+		},
+		"ef75c53c-c3c7-8045-ad40-221ad12a7af9": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/PauseMenuBG.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ef75c53c-c3c7-8045-ad40-221ad12a7af9"
+		},
+		"a97f4937-233a-934d-86f5-5cc7c9cdfba7": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/DimBG.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "a97f4937-233a-934d-86f5-5cc7c9cdfba7"
+		},
+		"48d80fb7-b126-bd4d-bfc2-5b199eeb1b0c": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/ScoreBreakdown.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "48d80fb7-b126-bd4d-bfc2-5b199eeb1b0c"
+		},
+		"1657b803-6d45-e643-8306-1b28eff39746": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/GameOverText.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "1657b803-6d45-e643-8306-1b28eff39746"
+		},
+		"1ffdb640-e0a0-8843-9f87-257978629743": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/Movement.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "1ffdb640-e0a0-8843-9f87-257978629743"
+		},
+		"45ef0af4-9a8b-ac4a-b702-4ecf3079e8e8": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/WallJump.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "45ef0af4-9a8b-ac4a-b702-4ecf3079e8e8"
+		},
+		"679b6c24-d38f-734c-b2e1-a29e14fa7146": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BeatGems.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "679b6c24-d38f-734c-b2e1-a29e14fa7146"
+		},
+		"96fc4cac-2903-5f4a-9436-5e5959c6121f": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/Vinyls.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "96fc4cac-2903-5f4a-9436-5e5959c6121f"
+		},
+		"6ec096b1-77a2-de49-8447-fffd5051589e": {
+			"anisotropic": 16.0,
+			"filename": "textures/StairCaseRTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "6ec096b1-77a2-de49-8447-fffd5051589e"
+		},
+		"a5510175-1227-3145-bb18-16f06951a5c7": {
+			"anisotropic": 16.0,
+			"filename": "textures/StarTexL.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "a5510175-1227-3145-bb18-16f06951a5c7"
+		},
+		"dbe4aeaf-4cc2-2941-a1e1-66382b7aa75c": {
+			"anisotropic": 16.0,
+			"filename": "textures/speakertex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "dbe4aeaf-4cc2-2941-a1e1-66382b7aa75c"
+		},
+		"dd1ac14f-371e-374c-a106-be541c20a2c0": {
+			"anisotropic": 16.0,
+			"filename": "textures/SquarePlatformTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "dd1ac14f-371e-374c-a106-be541c20a2c0"
+		},
+		"9e3fa5f6-4d9b-d343-b58d-9054d4494e32": {
+			"anisotropic": 16.0,
+			"filename": "textures/StreetLightTex.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9e3fa5f6-4d9b-d343-b58d-9054d4494e32"
+		},
+		"3fec96f7-0e4e-0b49-b8e0-a62e64c40463": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BeatBar.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "3fec96f7-0e4e-0b49-b8e0-a62e64c40463"
+		},
+		"89798d2b-449c-9947-a7cc-9fd1f41f3a22": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/BeatBarTick.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "89798d2b-449c-9947-a7cc-9fd1f41f3a22"
+		},
+		"39392054-e81b-284d-a5c9-28ed00612e77": {
+			"anisotropic": 16.0,
+			"filename": "textures/GUI/ScoreDisplay.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "39392054-e81b-284d-a5c9-28ed00612e77"
+		},
+		"07dcaa9c-bad6-7a48-a43e-ed4788f40db7": {
+			"anisotropic": 16.0,
+			"filename": "textures/ui-sprite.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "07dcaa9c-bad6-7a48-a43e-ed4788f40db7"
+		}
+	},
+	"Texture3D": {
+		"fab430fb-0b6f-9646-8904-c63ce3b3f4f9": {
+			"filename": "luts/cool.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "fab430fb-0b6f-9646-8904-c63ce3b3f4f9"
+		}
+	},
+	"TextureCube": {
+		"38bf98d9-e4ad-7040-b129-036042faea5c": {
+			"face_filenames": {
+				"NegX": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_NegX.jpg",
+				"NegY": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_NegY.jpg",
+				"NegZ": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_NegZ.jpg",
+				"PosX": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_PosX.jpg",
+				"PosY": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_PosY.jpg",
+				"PosZ": "E:\\Schoolwork\\Year 2\\Semester 2\\Computer Graphics\\ICG Individual 1\\OTTER\\bin\\Debug-windows-x86_64\\BeatEngine\\cubemaps\\city\\skybox_PosZ.jpg"
+			},
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"guid": "38bf98d9-e4ad-7040-b129-036042faea5c"
+		}
+	},
+	"ShaderProgram": {
+		"e0af98af-27c6-a74d-801f-018762ac98c5": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_environment_reflective.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Reflective",
+			"guid": "e0af98af-27c6-a74d-801f-018762ac98c5"
+		},
+		"f876aefc-3c67-f34e-ab53-c2cc045065fc": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_blinn_phong_textured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Blinn-phong",
+			"guid": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"156f3e2b-7bbc-c44d-b47f-082562423816": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/textured_specular.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Textured-Specular",
+			"guid": "156f3e2b-7bbc-c44d-b47f-082562423816"
+		},
+		"edcb404f-d54a-0c41-b74c-fa831a9c0693": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/screendoor_transparency.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/foliage.glsl"
+			},
+			"name": "Foliage",
+			"guid": "edcb404f-d54a-0c41-b74c-fa831a9c0693"
+		},
+		"81499ace-555e-a24e-82bc-ed3e6677fa0e": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/toon_shading.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Toon Shader",
+			"guid": "81499ace-555e-a24e-82bc-ed3e6677fa0e"
+		},
+		"1ca37a1f-e02d-ac40-a225-ba00c203f674": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_tangentspace_normal_maps.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/displacement_mapping.glsl"
+			},
+			"name": "Displacement Mapping",
+			"guid": "1ca37a1f-e02d-ac40-a225-ba00c203f674"
+		},
+		"394e46bc-b0cd-c942-8222-7d97d5e68f4a": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_tangentspace_normal_maps.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Tangent Space Mapping",
+			"guid": "394e46bc-b0cd-c942-8222-7d97d5e68f4a"
+		},
+		"f55168df-d579-6942-9a01-c95251aae801": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_multitextured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/vert_multitextured.glsl"
+			},
+			"name": "Multitexturing",
+			"guid": "f55168df-d579-6942-9a01-c95251aae801"
+		},
+		"9fe05822-2be7-7048-b230-e1ed55bf8eea": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/skybox_frag.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/skybox_vert.glsl"
+			},
+			"name": "",
+			"guid": "9fe05822-2be7-7048-b230-e1ed55bf8eea"
+		}
+	},
+	"Gameplay::Material": {
+		"9b8dd7f8-761f-8542-abd3-c7ea2ed3c237": {
+			"guid": "9b8dd7f8-761f-8542-abd3-c7ea2ed3c237",
+			"name": "StartPlatform",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "e2824a89-d7c1-5c47-8d55-e113a08e1e1e"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"c53c1776-9f16-a547-a6dc-7e4660575c1e": {
+			"guid": "c53c1776-9f16-a547-a6dc-7e4660575c1e",
+			"name": "UIButton",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "e2824a89-d7c1-5c47-8d55-e113a08e1e1e"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"31c35d0e-fb80-1243-8a14-259bf78f2313": {
+			"guid": "31c35d0e-fb80-1243-8a14-259bf78f2313",
+			"name": "SmallPlatform",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "edbcdb90-c4f9-844a-b4f1-d2ec5d59536b"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"52a9c512-669e-5f4c-bb80-b8942cf093d3": {
+			"guid": "52a9c512-669e-5f4c-bb80-b8942cf093d3",
+			"name": "WallJump",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "c6130aac-476b-e840-a945-7851fb8ded17"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"fc2aa50c-f209-ec4d-89ec-43c3d0b856bd": {
+			"guid": "fc2aa50c-f209-ec4d-89ec-43c3d0b856bd",
+			"name": "BeatGem",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "536bc9d8-6ce9-7c4a-a5a7-1f4c037aa3db"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"66569e86-a6f7-e445-ad76-9df9cef9704a": {
+			"guid": "66569e86-a6f7-e445-ad76-9df9cef9704a",
+			"name": "BeatGemOff",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "632d049e-747c-8243-9c9e-271d12a67a4a"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"ecdd88a5-1318-a645-a5c5-5d5d0250b493": {
+			"guid": "ecdd88a5-1318-a645-a5c5-5d5d0250b493",
+			"name": "Vinyl",
+			"parameters": {
+				"s_ToonTerm": {
+					"type": "Tex1D",
+					"value": "null"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "6dd5beda-bc29-3a49-be8a-7ea8f08d90e7"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "81499ace-555e-a24e-82bc-ed3e6677fa0e"
+		},
+		"86eb428e-58f5-154d-a4d6-33357547f75a": {
+			"guid": "86eb428e-58f5-154d-a4d6-33357547f75a",
+			"name": "CD",
+			"parameters": {
+				"s_ToonTerm": {
+					"type": "Tex1D",
+					"value": "null"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "e99a3de4-7543-0f41-ab2c-f1bddeedee6b"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "81499ace-555e-a24e-82bc-ed3e6677fa0e"
+		},
+		"1b664100-70f6-064c-9f7c-bf7ddbbd71b1": {
+			"guid": "1b664100-70f6-064c-9f7c-bf7ddbbd71b1",
+			"name": "Character",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "f2bdf705-2baf-914e-94a4-e0782238b29e"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"ee84d55b-c735-da40-a322-d61ef471c839": {
+			"guid": "ee84d55b-c735-da40-a322-d61ef471c839",
+			"name": "DiscoBall",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "5426b9ed-2f26-c14d-b852-f03fa040b5c0"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": -0.4000000059604645
+				}
+			},
+			"shader": "e0af98af-27c6-a74d-801f-018762ac98c5"
+		},
+		"1fea1862-1136-4845-83b7-69e6b2b168cf": {
+			"guid": "1fea1862-1136-4845-83b7-69e6b2b168cf",
+			"name": "Lose Screen",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "5fb862c6-0eba-2a48-878b-f2060a29e65d"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"551b3fb7-95d9-9b4d-ab63-6091fbb63afe": {
+			"guid": "551b3fb7-95d9-9b4d-ab63-6091fbb63afe",
+			"name": "Car1",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "4848ce6a-1ac2-8442-9744-c749000b587d"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"e6de6937-02be-2a45-a13a-ca70227bd6cf": {
+			"guid": "e6de6937-02be-2a45-a13a-ca70227bd6cf",
+			"name": "Semi1",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "25e48e02-53b3-6148-a199-9bf3aac17d60"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"6ad3278f-5550-5c44-b935-c980c82aef8b": {
+			"guid": "6ad3278f-5550-5c44-b935-c980c82aef8b",
+			"name": "Pickup1",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "191e0f19-9544-dd4c-a04c-f79969de59f4"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"8c480dc8-3a5a-1941-bb16-2d3c944f1fd2": {
+			"guid": "8c480dc8-3a5a-1941-bb16-2d3c944f1fd2",
+			"name": "Building",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "e4bbbe55-c7df-9948-b7f5-42107a085945"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"63385223-0576-e249-a8cf-734b91875fc2": {
+			"guid": "63385223-0576-e249-a8cf-734b91875fc2",
+			"name": "KBuilding",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "9fbd9750-111d-1947-9ff3-096aacd862bc"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"e8efe7e6-1004-404e-a5ae-4ee8c8837f22": {
+			"guid": "e8efe7e6-1004-404e-a5ae-4ee8c8837f22",
+			"name": "KBuilding2",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "6d9436f8-8379-8340-b17b-55af5be927c0"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"a09e72e3-6167-c14d-96f2-722cf085c161": {
+			"guid": "a09e72e3-6167-c14d-96f2-722cf085c161",
+			"name": "KBuilding3",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "26c3b509-8c2b-894b-a65c-14bbda3bf596"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"c6c0d346-511f-1341-8cba-97ab2af43856": {
+			"guid": "c6c0d346-511f-1341-8cba-97ab2af43856",
+			"name": "Small Wall Jump",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "666de067-aca2-a549-87af-7991bc5544c3"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"87a5928a-1102-ef44-993b-8661e8b05aa4": {
+			"guid": "87a5928a-1102-ef44-993b-8661e8b05aa4",
+			"name": "Super Small Wall Jump",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "391ee092-df0e-9545-bfdb-6503a73ea917"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"686870ff-e5e0-2941-97a6-1122a58c288e": {
+			"guid": "686870ff-e5e0-2941-97a6-1122a58c288e",
+			"name": "Piano",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "cce3c2d5-8bdd-aa40-a7aa-7e74046a4926"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"05ccc0f4-79a5-b34f-bf69-debacdb35a74": {
+			"guid": "05ccc0f4-79a5-b34f-bf69-debacdb35a74",
+			"name": "Half Circle Plat",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "ab297118-dae3-a542-aa2a-4096abff7545"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"7620db14-aeb5-9341-9d1f-a1ccc6cae069": {
+			"guid": "7620db14-aeb5-9341-9d1f-a1ccc6cae069",
+			"name": "Stairs Right",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "6ec096b1-77a2-de49-8447-fffd5051589e"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"86abe3aa-331b-7c4c-96bb-343cbc6368c9": {
+			"guid": "86abe3aa-331b-7c4c-96bb-343cbc6368c9",
+			"name": "Stairs Left",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "a5510175-1227-3145-bb18-16f06951a5c7"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"add0b756-d2c5-0448-87d3-a134a734b072": {
+			"guid": "add0b756-d2c5-0448-87d3-a134a734b072",
+			"name": "Speaker Material",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "dbe4aeaf-4cc2-2941-a1e1-66382b7aa75c"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"77f15ede-6581-734e-bd2a-f2e677f0ddf5": {
+			"guid": "77f15ede-6581-734e-bd2a-f2e677f0ddf5",
+			"name": "Square Platform",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "dd1ac14f-371e-374c-a106-be541c20a2c0"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"530f477d-a458-0e4e-ace7-c411888d7b5c": {
+			"guid": "530f477d-a458-0e4e-ace7-c411888d7b5c",
+			"name": "FLoating Light",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "9e3fa5f6-4d9b-d343-b58d-9054d4494e32"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		},
+		"416b9112-fdc5-8d44-8a41-4b3a70f5bf09": {
+			"guid": "416b9112-fdc5-8d44-8a41-4b3a70f5bf09",
+			"name": "Oval Building",
+			"parameters": {
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "5d3e89ab-5a30-6f4d-9096-25ba9bfbec10"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "f876aefc-3c67-f34e-ab53-c2cc045065fc"
+		}
+	},
+	"Gameplay::MeshResource": {
+		"c6bdfee3-182b-6a48-8f98-baf2895ed793": {
+			"filename": "Monkey.obj",
+			"guid": "c6bdfee3-182b-6a48-8f98-baf2895ed793"
+		},
+		"f2d8fed5-f740-9340-a4ec-6b339afb7f7e": {
+			"filename": "SmallSpeakerPlatformV5.obj",
+			"guid": "f2d8fed5-f740-9340-a4ec-6b339afb7f7e"
+		},
+		"9bfc8140-6eb0-774f-a4cd-72d2dbb51ff1": {
+			"filename": "WallJumpV6.obj",
+			"guid": "9bfc8140-6eb0-774f-a4cd-72d2dbb51ff1"
+		},
+		"84e602ee-3138-e041-8759-321d2bf64583": {
+			"filename": "Gem.obj",
+			"guid": "84e602ee-3138-e041-8759-321d2bf64583"
+		},
+		"38507c10-ab01-3847-9a5f-b10eaad8680f": {
+			"filename": "VinylV2.obj",
+			"guid": "38507c10-ab01-3847-9a5f-b10eaad8680f"
+		},
+		"20e40c6f-7ddd-674d-b3f8-62e2785ce048": {
+			"filename": "CDwithUnwrap.obj",
+			"guid": "20e40c6f-7ddd-674d-b3f8-62e2785ce048"
+		},
+		"1e05b3ea-6a34-8f41-89b2-f0255c63cc24": {
+			"filename": "RBuilding.obj",
+			"guid": "1e05b3ea-6a34-8f41-89b2-f0255c63cc24"
+		},
+		"4b6cf1c9-f196-fd40-a01c-cd6c9ea92e24": {
+			"filename": "KBuilding.obj",
+			"guid": "4b6cf1c9-f196-fd40-a01c-cd6c9ea92e24"
+		},
+		"021b6b54-92a2-0340-9f1e-54302d93bb56": {
+			"filename": "KBuilding2.obj",
+			"guid": "021b6b54-92a2-0340-9f1e-54302d93bb56"
+		},
+		"56cf7859-dca7-0d49-b05f-6103fa8ec8d4": {
+			"filename": "KBuilding3.obj",
+			"guid": "56cf7859-dca7-0d49-b05f-6103fa8ec8d4"
+		},
+		"31d0c121-8aac-7143-8a5f-731f6ae1ff45": {
+			"filename": "OvalBuilding.obj",
+			"guid": "31d0c121-8aac-7143-8a5f-731f6ae1ff45"
+		},
+		"aed0201a-f94a-ec4d-97fb-bcae75e1eb07": {
+			"filename": "discobot.obj",
+			"guid": "aed0201a-f94a-ec4d-97fb-bcae75e1eb07"
+		},
+		"1d9897fd-6807-bd48-ab1b-bf574326bd9f": {
+			"filename": "DiscoBall2.obj",
+			"guid": "1d9897fd-6807-bd48-ab1b-bf574326bd9f"
+		},
+		"c9247a2c-8030-7347-8be1-f2bd34aa3bfe": {
+			"filename": "LStartPlatform.obj",
+			"guid": "c9247a2c-8030-7347-8be1-f2bd34aa3bfe"
+		},
+		"e364b19f-f975-854a-afa1-0da9bc346075": {
+			"filename": "FutureCar1.obj",
+			"guid": "e364b19f-f975-854a-afa1-0da9bc346075"
+		},
+		"c7648b71-e4bc-6048-9187-5e540174dc95": {
+			"filename": "Semitruck.obj",
+			"guid": "c7648b71-e4bc-6048-9187-5e540174dc95"
+		},
+		"02c4d74d-6a60-314d-961b-f01524d278a8": {
+			"filename": "FuturePickup.obj",
+			"guid": "02c4d74d-6a60-314d-961b-f01524d278a8"
+		},
+		"d993d183-c9ff-d24e-b7e1-0de09aad60aa": {
+			"filename": "SmallWallJump.obj",
+			"guid": "d993d183-c9ff-d24e-b7e1-0de09aad60aa"
+		},
+		"1f7f01cc-6fcb-0a47-9b93-88747cd8d3ef": {
+			"filename": "SuperSmallWallJump.obj",
+			"guid": "1f7f01cc-6fcb-0a47-9b93-88747cd8d3ef"
+		},
+		"eec1c12a-6fba-8f42-989e-6f1ab88ef452": {
+			"filename": "pianoplatform.obj",
+			"guid": "eec1c12a-6fba-8f42-989e-6f1ab88ef452"
+		},
+		"ee6dcd87-940b-da40-966a-2824a51651c0": {
+			"filename": "HalfCriclePlat.obj",
+			"guid": "ee6dcd87-940b-da40-966a-2824a51651c0"
+		},
+		"4913a9dd-859a-0d42-99fa-a0b9684b3451": {
+			"filename": "StairCaseR.obj",
+			"guid": "4913a9dd-859a-0d42-99fa-a0b9684b3451"
+		},
+		"a7245bcf-7215-084f-af90-e825fa611118": {
+			"filename": "StairCaseL.obj",
+			"guid": "a7245bcf-7215-084f-af90-e825fa611118"
+		},
+		"90fe1954-aef0-1345-998c-14e965fd73ba": {
+			"filename": "speaker.obj",
+			"guid": "90fe1954-aef0-1345-998c-14e965fd73ba"
+		},
+		"c13add59-0147-384e-b813-8507c47fb1c2": {
+			"filename": "SquarePlatform.obj",
+			"guid": "c13add59-0147-384e-b813-8507c47fb1c2"
+		},
+		"acd9d34d-ff52-e34d-968b-e61a009102c2": {
+			"filename": "FloatingStreetLight.obj",
+			"guid": "acd9d34d-ff52-e34d-968b-e61a009102c2"
+		},
+		"4f0fbd39-1bf8-e74a-8119-2dc6024f9005": {
+			"filename": "CharacterAnims/run1.obj",
+			"guid": "4f0fbd39-1bf8-e74a-8119-2dc6024f9005"
+		},
+		"2970c13e-94ae-2945-9100-b1737dbfd586": {
+			"filename": "CharacterAnims/run2.obj",
+			"guid": "2970c13e-94ae-2945-9100-b1737dbfd586"
+		},
+		"8fd3ef7f-9606-eb4d-8507-7b2cdfd6a320": {
+			"filename": "CharacterAnims/run3.obj",
+			"guid": "8fd3ef7f-9606-eb4d-8507-7b2cdfd6a320"
+		},
+		"c9bc1a4e-32aa-9341-81e0-6754643086bc": {
+			"filename": "CharacterAnims/run4.obj",
+			"guid": "c9bc1a4e-32aa-9341-81e0-6754643086bc"
+		},
+		"0781a71f-ea4e-7e4d-b13b-3a7cd7ee0fed": {
+			"filename": "CharacterAnims/run5.obj",
+			"guid": "0781a71f-ea4e-7e4d-b13b-3a7cd7ee0fed"
+		},
+		"efa8beaf-67e7-8d4e-86ee-4e7a59036c62": {
+			"filename": "CharacterAnims/run6.obj",
+			"guid": "efa8beaf-67e7-8d4e-86ee-4e7a59036c62"
+		},
+		"880ef870-bc37-c94e-a343-86da0ff1d136": {
+			"filename": "CharacterAnims/run7.obj",
+			"guid": "880ef870-bc37-c94e-a343-86da0ff1d136"
+		},
+		"7882daf1-8918-254e-b65b-8fe022e343c2": {
+			"filename": "CharacterAnims/run8.obj",
+			"guid": "7882daf1-8918-254e-b65b-8fe022e343c2"
+		},
+		"012a66a6-9824-f04d-a432-6b9102424246": {
+			"filename": "CharacterAnims/run9.obj",
+			"guid": "012a66a6-9824-f04d-a432-6b9102424246"
+		},
+		"7d4d4b0c-e17a-6d47-9d2f-8c996d317a8a": {
+			"filename": "CharacterAnims/jump1.obj",
+			"guid": "7d4d4b0c-e17a-6d47-9d2f-8c996d317a8a"
+		},
+		"4a9032b3-55e0-874a-96e0-6d30ec46534b": {
+			"filename": "CharacterAnims/jump2.obj",
+			"guid": "4a9032b3-55e0-874a-96e0-6d30ec46534b"
+		},
+		"5878d7ef-421f-fc42-ae57-8ea231874260": {
+			"filename": "CharacterAnims/jump3.obj",
+			"guid": "5878d7ef-421f-fc42-ae57-8ea231874260"
+		},
+		"0b1faff4-043b-984d-826f-b9c49f9059ae": {
+			"filename": "CharacterAnims/jump4.obj",
+			"guid": "0b1faff4-043b-984d-826f-b9c49f9059ae"
+		},
+		"be725c46-6198-9046-8c0a-88b831f6ba6f": {
+			"filename": "CharacterAnims/jump5.obj",
+			"guid": "be725c46-6198-9046-8c0a-88b831f6ba6f"
+		},
+		"90344949-65e8-de43-9a2b-8883253da759": {
+			"filename": "CharacterAnims/jump6.obj",
+			"guid": "90344949-65e8-de43-9a2b-8883253da759"
+		},
+		"be37a307-d347-5f47-a386-fb45a668704c": {
+			"filename": "CharacterAnims/jump7.obj",
+			"guid": "be37a307-d347-5f47-a386-fb45a668704c"
+		},
+		"0834cead-847b-a74b-b6fa-59fd0f7bb815": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"type": "Cube"
+				},
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": null,
+					"type": "FaceInvert"
+				}
+			],
+			"guid": "0834cead-847b-a74b-b6fa-59fd0f7bb815"
+		}
+	},
+	"Font": {
+		"bc774e79-e52d-c048-ad84-3fb3b5705cc7": {
+			"filename": "fonts/VCR.ttf",
+			"font_size": 16.0,
+			"ranges": [
+				{
+					"x": 57344,
+					"y": 57344
+				},
+				{
+					"x": 1,
+					"y": 255
+				}
+			],
+			"guid": "bc774e79-e52d-c048-ad84-3fb3b5705cc7"
+		}
+	},
+	"Framebuffer": null
+}
